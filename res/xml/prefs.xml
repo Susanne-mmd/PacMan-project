@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:key="name"
+        android:summary="Your name"
+        android:title="Name" />
+    
+    <EditTextPreference
+        android:key="HighScore"
+        android:summary="Your highscore"
+        android:title="HighScore" />    
+
+</PreferenceScreen>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PacMan</string>
+    <string name="points">Points: 0</string>
+    <string name="timer">Timer: 0</string>
+    <string name="level">Level: 1</string>
+    <string name="highscore">Highscore</string>
+    <string name="action_settings">Settings</string>
+    <string name="share">Share</string>
+
+</resources>
